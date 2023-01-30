@@ -1,4 +1,8 @@
 # Gittin-Started
-Practice
+**Practice**
 
-Rooster is Top Gun!
+*Rooster is Top Gun!*
+
+```java
+public static void main(stuff....)
+```
